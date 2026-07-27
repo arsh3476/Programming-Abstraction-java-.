@@ -1,4 +1,4 @@
-class Main {
+class BS {
     
     static int bs(int[] arr, int target){
         int low = 0;

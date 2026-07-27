@@ -1,4 +1,4 @@
-class Main {
+class smallestSubArray {
     public static int smallestSubarray(int[]arr, int k){
         int left = 0;
         int sum = 0;

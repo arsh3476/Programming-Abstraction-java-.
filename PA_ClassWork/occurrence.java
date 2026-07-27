@@ -1,4 +1,4 @@
-class Main {
+class occurrence {
     static int Foccurrence(int[] arr, int target){
         int low = 0;
         int high = arr.length-1;
@@ -49,7 +49,7 @@ class Main {
             System.out.println("Element not found");
         }
         else{
-            System.out.println("Element found at index"+ (last-first+1));
+            System.out.println("Element found at index: "+ (last-first+1));
         }
         
         

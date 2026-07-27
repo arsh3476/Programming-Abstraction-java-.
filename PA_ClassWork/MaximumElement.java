@@ -1,4 +1,4 @@
-class Main {
+class MaximumElement {
     static int maximum(int[] arr){
         int max = arr[0];
         for(int i=1;i<arr.length;i++){
