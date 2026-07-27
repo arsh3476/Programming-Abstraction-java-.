@@ -1,5 +1,6 @@
 import java.util.*;
 class selectionSort {
+    
     public static void selectionsort(int[] arr){
         for(int i=0;i<arr.length-1;i++){
             int min = i;
